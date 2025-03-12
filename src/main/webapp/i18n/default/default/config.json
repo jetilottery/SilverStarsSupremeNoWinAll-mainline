@@ -1,0 +1,14 @@
+{
+  "toggleAutoPlay": false,
+  "showHowToPlayOnLoad": false,
+  "autoPlayWinningNumberInterval": 0.025,
+  "autoPlayPlayerNumberInterval": 0.025,
+  "autoPlayPlayerNumberDelay": 0.5,
+  "autoPlayPlayerRowInterval": 0.35,
+  "showResultScreen": true,
+  "suppressNonWinResultPlaque": true,
+  "secondsDelayDismissResult": 0,
+  "winAllRollupLowerDurationInSeconds": 0.5,
+  "winAllRollupHigherDurationInSeconds": 0.5,
+  "autoPlayAudioInterval": 0.35
+}

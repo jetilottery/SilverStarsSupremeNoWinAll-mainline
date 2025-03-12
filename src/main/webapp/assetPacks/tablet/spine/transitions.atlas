@@ -1,0 +1,401 @@
+
+transitions.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cover
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+transitions.jpg
+size: 2007,1983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gemShower/gemTrail_00
+  rotate: true
+  xy: 2, 1966
+  size: 15, 76
+  orig: 360, 864
+  offset: 146, 788
+  index: -1
+gemShower/gemTrail_01
+  rotate: true
+  xy: 80, 1911
+  size: 70, 92
+  orig: 360, 864
+  offset: 132, 772
+  index: -1
+gemShower/gemTrail_02
+  rotate: true
+  xy: 174, 1867
+  size: 114, 197
+  orig: 360, 864
+  offset: 121, 667
+  index: -1
+gemShower/gemTrail_03
+  rotate: true
+  xy: 373, 1848
+  size: 133, 257
+  orig: 360, 864
+  offset: 112, 607
+  index: -1
+gemShower/gemTrail_04
+  rotate: true
+  xy: 632, 1836
+  size: 145, 321
+  orig: 360, 864
+  offset: 109, 543
+  index: -1
+gemShower/gemTrail_05
+  rotate: true
+  xy: 955, 1823
+  size: 158, 400
+  orig: 360, 864
+  offset: 106, 464
+  index: -1
+gemShower/gemTrail_06
+  rotate: true
+  xy: 1357, 1808
+  size: 173, 529
+  orig: 360, 864
+  offset: 101, 335
+  index: -1
+gemShower/gemTrail_07
+  rotate: true
+  xy: 2, 1654
+  size: 192, 538
+  orig: 360, 864
+  offset: 92, 326
+  index: -1
+gemShower/gemTrail_08
+  rotate: true
+  xy: 542, 1617
+  size: 204, 606
+  orig: 360, 864
+  offset: 90, 258
+  index: -1
+gemShower/gemTrail_09
+  rotate: true
+  xy: 1150, 1589
+  size: 217, 616
+  orig: 360, 864
+  offset: 81, 248
+  index: -1
+gemShower/gemTrail_10
+  rotate: true
+  xy: 2, 1393
+  size: 222, 735
+  orig: 360, 864
+  offset: 79, 129
+  index: -1
+gemShower/gemTrail_11
+  rotate: true
+  xy: 739, 1359
+  size: 228, 804
+  orig: 360, 864
+  offset: 77, 60
+  index: -1
+gemShower/gemTrail_12
+  rotate: true
+  xy: 2, 1123
+  size: 234, 808
+  orig: 360, 864
+  offset: 73, 56
+  index: -1
+gemShower/gemTrail_13
+  rotate: true
+  xy: 812, 1119
+  size: 238, 864
+  orig: 360, 864
+  offset: 72, 0
+  index: -1
+gemShower/gemTrail_14
+  rotate: true
+  xy: 2, 878
+  size: 239, 864
+  orig: 360, 864
+  offset: 74, 0
+  index: -1
+gemShower/gemTrail_15
+  rotate: true
+  xy: 2, 628
+  size: 248, 864
+  orig: 360, 864
+  offset: 68, 0
+  index: -1
+gemShower/gemTrail_16
+  rotate: true
+  xy: 868, 539
+  size: 249, 864
+  orig: 360, 864
+  offset: 69, 0
+  index: -1
+gemShower/gemTrail_17
+  rotate: true
+  xy: 2, 372
+  size: 254, 864
+  orig: 360, 864
+  offset: 67, 0
+  index: -1
+gemShower/gemTrail_18
+  rotate: true
+  xy: 868, 277
+  size: 260, 864
+  orig: 360, 864
+  offset: 63, 0
+  index: -1
+gemShower/gemTrail_19
+  rotate: true
+  xy: 2, 107
+  size: 263, 864
+  orig: 360, 864
+  offset: 62, 0
+  index: -1
+gemShower/gemTrail_20
+  rotate: false
+  xy: 1734, 98
+  size: 269, 864
+  orig: 360, 864
+  offset: 58, 0
+  index: -1
+gemShower/gemTrail_21
+  rotate: true
+  xy: 868, 2
+  size: 273, 864
+  orig: 360, 864
+  offset: 55, 0
+  index: -1
+gemShower/gemTrail_50
+  rotate: false
+  xy: 1678, 964
+  size: 327, 623
+  orig: 360, 864
+  offset: 20, 0
+  index: -1
+gemShower/gemTrail_51
+  rotate: true
+  xy: 868, 790
+  size: 327, 623
+  orig: 360, 864
+  offset: 20, 0
+  index: -1
+
+transitions2.jpg
+size: 1869,1867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gemShower/gemTrail_22
+  rotate: true
+  xy: 668, 937
+  size: 273, 864
+  orig: 360, 864
+  offset: 57, 0
+  index: -1
+gemShower/gemTrail_23
+  rotate: true
+  xy: 668, 2
+  size: 283, 864
+  orig: 360, 864
+  offset: 49, 0
+  index: -1
+gemShower/gemTrail_35
+  rotate: true
+  xy: 668, 287
+  size: 322, 864
+  orig: 360, 864
+  offset: 25, 0
+  index: -1
+gemShower/gemTrail_36
+  rotate: true
+  xy: 668, 611
+  size: 324, 864
+  orig: 360, 864
+  offset: 23, 0
+  index: -1
+gemShower/gemTrail_37
+  rotate: true
+  xy: 668, 1212
+  size: 325, 864
+  orig: 360, 864
+  offset: 22, 0
+  index: -1
+gemShower/gemTrail_38
+  rotate: true
+  xy: 668, 1539
+  size: 326, 864
+  orig: 360, 864
+  offset: 21, 0
+  index: -1
+gemShower/gemTrail_39
+  rotate: false
+  xy: 2, 135
+  size: 329, 864
+  orig: 360, 864
+  offset: 18, 0
+  index: -1
+gemShower/gemTrail_40
+  rotate: false
+  xy: 2, 1001
+  size: 330, 864
+  orig: 360, 864
+  offset: 17, 0
+  index: -1
+gemShower/gemTrail_41
+  rotate: false
+  xy: 334, 1006
+  size: 332, 859
+  orig: 360, 864
+  offset: 15, 0
+  index: -1
+gemShower/gemTrail_42
+  rotate: false
+  xy: 1534, 1008
+  size: 332, 857
+  orig: 360, 864
+  offset: 15, 0
+  index: -1
+gemShower/gemTrail_43
+  rotate: false
+  xy: 333, 146
+  size: 333, 853
+  orig: 360, 864
+  offset: 14, 0
+  index: -1
+gemShower/gemTrail_44
+  rotate: false
+  xy: 1534, 164
+  size: 333, 842
+  orig: 360, 864
+  offset: 14, 0
+  index: -1
+
+transitions3.jpg
+size: 2035,1870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gemShower/gemTrail_24
+  rotate: true
+  xy: 2, 1583
+  size: 285, 864
+  orig: 360, 864
+  offset: 48, 0
+  index: -1
+gemShower/gemTrail_25
+  rotate: true
+  xy: 868, 1582
+  size: 286, 864
+  orig: 360, 864
+  offset: 49, 0
+  index: -1
+gemShower/gemTrail_26
+  rotate: true
+  xy: 2, 1289
+  size: 292, 864
+  orig: 360, 864
+  offset: 45, 0
+  index: -1
+gemShower/gemTrail_27
+  rotate: true
+  xy: 868, 1284
+  size: 296, 864
+  orig: 360, 864
+  offset: 43, 0
+  index: -1
+gemShower/gemTrail_28
+  rotate: false
+  xy: 1734, 1004
+  size: 299, 864
+  orig: 360, 864
+  offset: 42, 0
+  index: -1
+gemShower/gemTrail_29
+  rotate: true
+  xy: 2, 983
+  size: 304, 864
+  orig: 360, 864
+  offset: 39, 0
+  index: -1
+gemShower/gemTrail_30
+  rotate: true
+  xy: 868, 972
+  size: 310, 864
+  orig: 360, 864
+  offset: 35, 0
+  index: -1
+gemShower/gemTrail_31
+  rotate: true
+  xy: 2, 668
+  size: 313, 864
+  orig: 360, 864
+  offset: 33, 0
+  index: -1
+gemShower/gemTrail_32
+  rotate: true
+  xy: 868, 655
+  size: 315, 864
+  orig: 360, 864
+  offset: 31, 0
+  index: -1
+gemShower/gemTrail_33
+  rotate: true
+  xy: 2, 350
+  size: 316, 864
+  orig: 360, 864
+  offset: 30, 0
+  index: -1
+gemShower/gemTrail_34
+  rotate: true
+  xy: 868, 333
+  size: 320, 864
+  orig: 360, 864
+  offset: 27, 0
+  index: -1
+gemShower/gemTrail_48
+  rotate: true
+  xy: 839, 2
+  size: 329, 835
+  orig: 360, 864
+  offset: 18, 0
+  index: -1
+gemShower/gemTrail_49
+  rotate: true
+  xy: 2, 20
+  size: 328, 835
+  orig: 360, 864
+  offset: 19, 0
+  index: -1
+
+transitions4.jpg
+size: 1001,845
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gemShower/gemTrail_45
+  rotate: false
+  xy: 2, 2
+  size: 332, 841
+  orig: 360, 864
+  offset: 15, 0
+  index: -1
+gemShower/gemTrail_46
+  rotate: false
+  xy: 336, 3
+  size: 331, 840
+  orig: 360, 864
+  offset: 16, 0
+  index: -1
+gemShower/gemTrail_47
+  rotate: false
+  xy: 669, 4
+  size: 330, 839
+  orig: 360, 864
+  offset: 17, 0
+  index: -1

@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch7.mp3",
+    "ch7.ogg",
+    "ch7.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "LuckyNumberSelect_4": [
+      1050,
+      1797.9591836734696
+    ],
+    "NumberSelect_5": [
+      3100,
+      1501.9501133786846
+    ]
+  }
+}

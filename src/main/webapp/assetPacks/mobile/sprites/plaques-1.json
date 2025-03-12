@@ -1,0 +1,84 @@
+{"frames": {
+
+"landscape_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":817,"y":1347,"w":702,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":271},
+	"sourceSize": {"w":702,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_endOfGameMessageWinBackground":
+{
+	"frame": {"x":817,"y":1347,"w":702,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":271},
+	"sourceSize": {"w":702,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_winAllMessageBackground":
+{
+	"frame": {"x":817,"y":1347,"w":702,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":271},
+	"sourceSize": {"w":702,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":817,"y":1347,"w":702,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":271},
+	"sourceSize": {"w":702,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageWinBackground":
+{
+	"frame": {"x":817,"y":1347,"w":702,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":271},
+	"sourceSize": {"w":702,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_timeOutMessageOverlay":
+{
+	"frame": {"x":3,"y":3,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_tutorialOverlay":
+{
+	"frame": {"x":817,"y":3,"w":810,"h":1340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1340},
+	"sourceSize": {"w":810,"h":1340},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_winAllMessageBackground":
+{
+	"frame": {"x":817,"y":1347,"w":702,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":271},
+	"sourceSize": {"w":702,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1630,"h":1621},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:83665a978bd5d18084d4fb050b004e77:c42f68fd03cc9c3531833a1bf84dbcc6:0136194d2339e82a5070d8e97ee180c7$"
+}
+}

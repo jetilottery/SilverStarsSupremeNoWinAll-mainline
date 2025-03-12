@@ -1,0 +1,18 @@
+{
+  "urls": [
+    "ch12.mp3",
+    "ch12.ogg",
+    "ch12.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "WinAll_CountUp": [
+      1050,
+      1777.7777777777774
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "urls": [
+    "ch1.mp3",
+    "ch1.ogg",
+    "ch1.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BackgroundMusicTerm_LOSE": [
+      1050,
+      5651.814058956916
+    ],
+    "BackgroundMusicTerm_WIN": [
+      7100,
+      4601.904761904761
+    ],
+    "BetDown": [
+      12149.999999999998,
+      1777.7777777777785
+    ],
+    "NumberMatch": [
+      14200,
+      2996.4625850340135
+    ],
+    "WinScale_1": [
+      17250,
+      1500
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{"frames": {
+
+"landscape_tutorialBackground":
+{
+	"frame": {"x":3,"y":3,"w":1408,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1408,"h":640},
+	"sourceSize": {"w":1408,"h":640},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-3.png",
+	"format": "RGBA8888",
+	"size": {"w":1414,"h":646},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:83665a978bd5d18084d4fb050b004e77:c42f68fd03cc9c3531833a1bf84dbcc6:0136194d2339e82a5070d8e97ee180c7$"
+}
+}

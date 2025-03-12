@@ -1,0 +1,88 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "Silver Stars Supreme",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "TOTAL WIN",
+      "TRY": "TOTAL DEMO WIN"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1": "Match Your Numbers to Lucky Numbers and win the corresponding prize.\n\nReveal a 2x symbol to instantly win double the prize amount.\n\nReveal a Golden Chest symbol and win all prizes instantly.\n\nReveal 5 Blue Gemstones in Your Numbers to enter the Bonus game.",
+    "page2": "BONUS GAME\n\nFind 3 or more Blue Gemstones to win a prize.\n\nReveal 3 Silver X symbols or win the top prize to finish the game.",
+
+    "winUpToText": "WIN UP TO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"WIN ALL",
+    "bonusLives":"FIND 3 X's TO END BONUS",
+    "bonusInfo":"FIND 3 OR MORE BLUE GEMSTONES TO WIN!",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

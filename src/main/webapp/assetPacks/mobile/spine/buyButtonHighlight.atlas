@@ -1,0 +1,391 @@
+
+buyButtonHighlight.jpg
+size: 1605,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyButtonHighlight_00
+  rotate: false
+  xy: 1434, 310
+  size: 72, 117
+  orig: 400, 400
+  offset: 69, 166
+  index: -1
+buyButtonHighlight_02
+  rotate: false
+  xy: 316, 4
+  size: 75, 121
+  orig: 400, 400
+  offset: 68, 163
+  index: -1
+buyButtonHighlight_04
+  rotate: false
+  xy: 1409, 46
+  size: 78, 128
+  orig: 400, 400
+  offset: 68, 158
+  index: -1
+buyButtonHighlight_06
+  rotate: true
+  xy: 1465, 514
+  size: 83, 138
+  orig: 400, 400
+  offset: 68, 150
+  index: -1
+buyButtonHighlight_08
+  rotate: false
+  xy: 1256, 164
+  size: 89, 140
+  orig: 400, 400
+  offset: 69, 141
+  index: -1
+buyButtonHighlight_10
+  rotate: false
+  xy: 1162, 158
+  size: 92, 143
+  orig: 400, 400
+  offset: 73, 131
+  index: -1
+buyButtonHighlight_100
+  rotate: false
+  xy: 1249, 306
+  size: 92, 143
+  orig: 400, 400
+  offset: 73, 131
+  index: -1
+buyButtonHighlight_102
+  rotate: false
+  xy: 1343, 309
+  size: 89, 140
+  orig: 400, 400
+  offset: 69, 141
+  index: -1
+buyButtonHighlight_104
+  rotate: true
+  xy: 1465, 429
+  size: 83, 138
+  orig: 400, 400
+  offset: 68, 150
+  index: -1
+buyButtonHighlight_106
+  rotate: false
+  xy: 1489, 40
+  size: 78, 128
+  orig: 400, 400
+  offset: 68, 158
+  index: -1
+buyButtonHighlight_108
+  rotate: false
+  xy: 1436, 176
+  size: 75, 121
+  orig: 400, 400
+  offset: 68, 163
+  index: -1
+buyButtonHighlight_12
+  rotate: true
+  xy: 158, 12
+  size: 100, 156
+  orig: 400, 400
+  offset: 73, 118
+  index: -1
+buyButtonHighlight_14
+  rotate: false
+  xy: 121, 439
+  size: 111, 158
+  orig: 400, 400
+  offset: 72, 116
+  index: -1
+buyButtonHighlight_16
+  rotate: false
+  xy: 431, 298
+  size: 127, 148
+  orig: 400, 400
+  offset: 67, 126
+  index: -1
+buyButtonHighlight_18
+  rotate: false
+  xy: 547, 451
+  size: 137, 146
+  orig: 400, 400
+  offset: 69, 128
+  index: -1
+buyButtonHighlight_20
+  rotate: false
+  xy: 560, 303
+  size: 136, 146
+  orig: 400, 400
+  offset: 82, 128
+  index: -1
+buyButtonHighlight_22
+  rotate: false
+  xy: 686, 451
+  size: 136, 146
+  orig: 400, 400
+  offset: 95, 128
+  index: -1
+buyButtonHighlight_24
+  rotate: false
+  xy: 610, 155
+  size: 136, 146
+  orig: 400, 400
+  offset: 108, 128
+  index: -1
+buyButtonHighlight_26
+  rotate: false
+  xy: 698, 303
+  size: 136, 146
+  orig: 400, 400
+  offset: 121, 128
+  index: -1
+buyButtonHighlight_28
+  rotate: false
+  xy: 824, 451
+  size: 136, 146
+  orig: 400, 400
+  offset: 135, 128
+  index: -1
+buyButtonHighlight_30
+  rotate: false
+  xy: 680, 7
+  size: 136, 146
+  orig: 400, 400
+  offset: 148, 128
+  index: -1
+buyButtonHighlight_32
+  rotate: false
+  xy: 748, 155
+  size: 136, 146
+  orig: 400, 400
+  offset: 162, 128
+  index: -1
+buyButtonHighlight_34
+  rotate: false
+  xy: 836, 303
+  size: 136, 146
+  orig: 400, 400
+  offset: 175, 128
+  index: -1
+buyButtonHighlight_36
+  rotate: false
+  xy: 962, 451
+  size: 136, 146
+  orig: 400, 400
+  offset: 188, 128
+  index: -1
+buyButtonHighlight_38
+  rotate: false
+  xy: 1238, 451
+  size: 133, 146
+  orig: 400, 400
+  offset: 200, 128
+  index: -1
+buyButtonHighlight_40
+  rotate: false
+  xy: 234, 441
+  size: 123, 156
+  orig: 400, 400
+  offset: 211, 128
+  index: -1
+buyButtonHighlight_42
+  rotate: false
+  xy: 2, 435
+  size: 117, 162
+  orig: 400, 400
+  offset: 221, 128
+  index: -1
+buyButtonHighlight_44
+  rotate: false
+  xy: 118, 274
+  size: 107, 159
+  orig: 400, 400
+  offset: 231, 128
+  index: -1
+buyButtonHighlight_46
+  rotate: false
+  xy: 330, 289
+  size: 99, 150
+  orig: 400, 400
+  offset: 239, 123
+  index: -1
+buyButtonHighlight_48
+  rotate: false
+  xy: 359, 448
+  size: 93, 149
+  orig: 400, 400
+  offset: 246, 114
+  index: -1
+buyButtonHighlight_50
+  rotate: false
+  xy: 1227, 15
+  size: 90, 141
+  orig: 400, 400
+  offset: 252, 114
+  index: -1
+buyButtonHighlight_52
+  rotate: false
+  xy: 1319, 29
+  size: 88, 133
+  orig: 400, 400
+  offset: 256, 115
+  index: -1
+buyButtonHighlight_54
+  rotate: false
+  xy: 1508, 299
+  size: 84, 128
+  orig: 400, 400
+  offset: 259, 116
+  index: -1
+buyButtonHighlight_56
+  rotate: false
+  xy: 1513, 170
+  size: 83, 127
+  orig: 400, 400
+  offset: 260, 116
+  index: -1
+buyButtonHighlight_58
+  rotate: false
+  xy: 1347, 176
+  size: 87, 131
+  orig: 400, 400
+  offset: 257, 115
+  index: -1
+buyButtonHighlight_60
+  rotate: false
+  xy: 1373, 458
+  size: 90, 139
+  orig: 400, 400
+  offset: 253, 114
+  index: -1
+buyButtonHighlight_62
+  rotate: false
+  xy: 454, 450
+  size: 91, 147
+  orig: 400, 400
+  offset: 248, 114
+  index: -1
+buyButtonHighlight_64
+  rotate: false
+  xy: 241, 127
+  size: 98, 151
+  orig: 400, 400
+  offset: 240, 119
+  index: -1
+buyButtonHighlight_66
+  rotate: true
+  xy: 2, 2
+  size: 106, 154
+  orig: 400, 400
+  offset: 232, 128
+  index: -1
+buyButtonHighlight_68
+  rotate: false
+  xy: 2, 271
+  size: 114, 162
+  orig: 400, 400
+  offset: 224, 128
+  index: -1
+buyButtonHighlight_70
+  rotate: false
+  xy: 2, 110
+  size: 122, 159
+  orig: 400, 400
+  offset: 213, 128
+  index: -1
+buyButtonHighlight_72
+  rotate: false
+  xy: 1094, 7
+  size: 131, 146
+  orig: 400, 400
+  offset: 202, 128
+  index: -1
+buyButtonHighlight_74
+  rotate: false
+  xy: 471, 150
+  size: 137, 146
+  orig: 400, 400
+  offset: 190, 128
+  index: -1
+buyButtonHighlight_76
+  rotate: false
+  xy: 818, 7
+  size: 136, 146
+  orig: 400, 400
+  offset: 177, 128
+  index: -1
+buyButtonHighlight_78
+  rotate: false
+  xy: 886, 155
+  size: 136, 146
+  orig: 400, 400
+  offset: 164, 128
+  index: -1
+buyButtonHighlight_80
+  rotate: false
+  xy: 974, 303
+  size: 136, 146
+  orig: 400, 400
+  offset: 151, 128
+  index: -1
+buyButtonHighlight_82
+  rotate: false
+  xy: 1100, 451
+  size: 136, 146
+  orig: 400, 400
+  offset: 137, 128
+  index: -1
+buyButtonHighlight_84
+  rotate: true
+  xy: 393, 2
+  size: 135, 146
+  orig: 400, 400
+  offset: 124, 128
+  index: -1
+buyButtonHighlight_86
+  rotate: false
+  xy: 956, 7
+  size: 136, 146
+  orig: 400, 400
+  offset: 110, 128
+  index: -1
+buyButtonHighlight_88
+  rotate: false
+  xy: 1024, 155
+  size: 136, 146
+  orig: 400, 400
+  offset: 96, 128
+  index: -1
+buyButtonHighlight_90
+  rotate: false
+  xy: 1112, 303
+  size: 135, 146
+  orig: 400, 400
+  offset: 84, 128
+  index: -1
+buyButtonHighlight_92
+  rotate: false
+  xy: 541, 2
+  size: 137, 146
+  orig: 400, 400
+  offset: 70, 128
+  index: -1
+buyButtonHighlight_94
+  rotate: false
+  xy: 341, 139
+  size: 128, 148
+  orig: 400, 400
+  offset: 67, 126
+  index: -1
+buyButtonHighlight_96
+  rotate: false
+  xy: 126, 114
+  size: 113, 158
+  orig: 400, 400
+  offset: 71, 116
+  index: -1
+buyButtonHighlight_98
+  rotate: false
+  xy: 227, 280
+  size: 101, 157
+  orig: 400, 400
+  offset: 73, 117
+  index: -1
