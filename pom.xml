@@ -111,7 +111,7 @@
     <dependency>
       <groupId>com.igt.interactive.skbJet.componentManchester.spineLoader</groupId>
       <artifactId>spineLoader</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
